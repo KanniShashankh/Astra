@@ -20,7 +20,7 @@ REST API penetration testing is complex due to continuous changes in existing AP
 - JWT attack
 - CRLF detection
 - Blind XXE injection 
-- Server-side Requrest Forgery
+- Server-side Request Forgery
 - Template Injection
 
 ## Roadmap
